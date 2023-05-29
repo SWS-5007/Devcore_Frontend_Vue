@@ -1,0 +1,1 @@
+{"__schema":{"types":[{"kind":"UNION","name":"ProcessPart","possibleTypes":[{"name":"Process"},{"name":"ProcessStage"},{"name":"ProcessOperation"},{"name":"ProcessPhase"}]}]}}

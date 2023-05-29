@@ -1,0 +1,4 @@
+#Mon Aug 24 13:56:42 PKT 2020
+base.0=/Users/usama/Documents/Development/Vue/devcore-mobile-app/vueapp1/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
