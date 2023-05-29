@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#000000</color>
+    <string name="activity_name">@string/launcher_name</string>
+    <string name="app_name">Devcore</string>
+    <string name="launcher_name">@string/app_name</string>
+</resources>

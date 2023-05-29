@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "253538015953",
+    "firebase_url": "https://devcore-eb530.firebaseio.com",
+    "project_id": "devcore-eb530",
+    "storage_bucket": "devcore-eb530.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253538015953:android:8ca4df58c8f700e56983f0",
+        "android_client_info": {
+          "package_name": "com.spcom.devcore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253538015953-rgundjicmtdtv5diq4igco4r1q90nj6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXW6fIlAsbqqjEhN-rCH3vlYn4Lg8BHX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253538015953-rgundjicmtdtv5diq4igco4r1q90nj6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

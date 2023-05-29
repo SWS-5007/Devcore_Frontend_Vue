@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "../keystores/debug.keystore",
+            "storePassword": "devcore",
+            "alias": "Devcore",
+            "password" : "devcore",
+            "keystoreType": ""
+        },
+        "release": {
+            "keystore": "../keystores/debug.keystore",
+            "storePassword": "devcore",
+            "alias": "Devcore",
+            "password" : "devcore",
+            "keystoreType": ""
+        }
+    }
+}
